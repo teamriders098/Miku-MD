@@ -2,6 +2,8 @@
 
 echo "Copyright By 2022 Fantox Gaming"
 
+figlet Miku-MD By Fantox Gaming
+
 echo 'starting installing of packages for terminal'
 
 echo "IF PROMPT THEN ENTER YOUR KALI LINUX OR UBUNTU IR OTHER LINUX USER NAME AND PASSWORD OTHERWISE IT WILL START INSTALLING PROCESS"
@@ -37,6 +39,8 @@ clear
 
 # ----------👇👇👇 Here you can use your bot's gitHub link 👇👇👇--------- 
 
+figlet Miku-MD By Fantox Gaming
+
 echo"👇👇👇 staring bot cloning 👇👇👇"
 
 git clone https://github.com/FantoX001/Miku-MD
@@ -44,6 +48,8 @@ git clone https://github.com/FantoX001/Miku-MD
 clear
 
 # -----------------------------------------------------------------------------
+
+figlet Miku-MD By Fantox Gaming
 
 ls
 
@@ -69,6 +75,8 @@ ls
 
 clear
 # -----------------To stop bot------------------
+
+figlet Miku-MD By Fantox Gaming
 
 echo 'If You Want To Stop Bot Press'
 echo "ctrl + c"
