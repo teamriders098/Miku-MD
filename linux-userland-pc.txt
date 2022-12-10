@@ -8,13 +8,13 @@ echo "IF PROMPT THEN ENTER YOUR KALI LINUX OR UBUNTU IR OTHER LINUX USER NAME AN
 
 sudo su
 
-sudo apt-get update
+sudo apt-get update -y
 
-sudo apt-get upgrade
+sudo apt-get upgrade -y
 
-sudo apt install bash
+sudo apt install bash -y
 
-sudo apt-get install libwebp-dev
+sudo apt-get install libwebp-dev -y
 
 sudo apt-get install git
 
@@ -22,13 +22,15 @@ sudo apt-get install nodejs -y
 
 sudo apt-get install ffmpeg -y
 
-sudo apt-get install wget
+sudo apt-get install wget -y
 
-sudo apt-get install yarn
+sudo apt-get install yarn -y
 
-sudo apt-get install npm
+sudo apt-get install npm -y
 
-sudo apt-get install imagemagick
+sudo apt-get install imagemagick -y
+
+sudo apt-get install figlet -y
 
 clear
 
@@ -96,7 +98,7 @@ echo 'https://github.com/FantoX001/Miku-MD'
 
 clear
 # -------------------------xxxxxxxxxxxxxxxxxxxxxxxxxxx-------------------------
-
+figlet Miku-MD By Fantox Gaming
 
 
 echo "It's my request to follow me on GitHub and subscribe my YouTube channed if you like my hard work and dedication."
@@ -112,6 +114,8 @@ echo "My channel: https://youtube.com/channel/UCnSwAOi4t5mxH62gn06ExPQ"
 
 
 # -------------------------------------( Thank You )-----------------------------------------------
+
+echo "Thank You"
 
 echo 'BOT STARTING  PROCESS HAS BEEN STARTED'
 
