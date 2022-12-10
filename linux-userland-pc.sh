@@ -32,9 +32,9 @@ sudo apt-get install yarn -y
 
 sudo apt-get install npm -y
 
-npm install -g yarn@latest
+npm install -g yarn --force
 
-npm install -g npm@latest
+npm install -g npm --force
 
 sudo apt-get install imagemagick -y
 
