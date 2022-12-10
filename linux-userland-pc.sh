@@ -1,5 +1,7 @@
 # --------------- Copyright 2022 Fantox Gaming ------------
 
+apt-get install figlet
+
 echo "Copyright By 2022 Fantox Gaming"
 
 figlet Miku-MD By Fantox Gaming
@@ -8,7 +10,7 @@ echo 'starting installing of packages for terminal'
 
 echo "IF PROMPT THEN ENTER YOUR KALI LINUX OR UBUNTU IR OTHER LINUX USER NAME AND PASSWORD OTHERWISE IT WILL START INSTALLING PROCESS"
 
-sudo su
+# sudo su
 
 sudo apt-get update -y
 
