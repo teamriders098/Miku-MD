@@ -32,6 +32,10 @@ sudo apt-get install yarn -y
 
 sudo apt-get install npm -y
 
+npm install -g yarn@latest
+
+npm install -g npm@latest
+
 sudo apt-get install imagemagick -y
 
 sudo apt-get install figlet -y
