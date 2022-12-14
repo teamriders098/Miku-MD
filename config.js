@@ -8,7 +8,7 @@ global.antitags = true
 
 
 global.Owner = ['918101187835']
-global.OwnerNumber = ['918101187835']
+global.OwnerNumber = ['918602239106']
 global.ownertag = ['918101187835']
 global.BotName = "Miku"
 global.packname = "Miku bot"
@@ -20,7 +20,7 @@ global.sessionName = "session"
 
 
 
-global.prefa = ['-'] // Prefix ---  change it to anythong you want except @//
+global.prefa = ['!'] // Prefix ---  change it to anythong you want except @//
 
 
 global.location = "West Bengal, India"
