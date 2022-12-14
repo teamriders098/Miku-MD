@@ -5,6 +5,7 @@ RUN apt-get update && \
   ffmpeg \
   imagemagick \
   webp && \
+  bash \
   apt-get upgrade -y && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
@@ -19,4 +20,4 @@ RUN yarn install
 
 COPY . .
 
-CMD ["node", "koyeb.js"]
+CMD ["bash", "process.sh"]
