@@ -20,4 +20,4 @@ RUN yarn install
 
 COPY . .
 
-CMD ["bash", "process.sh"]
+CMD ["node", "koyeb.js"]
