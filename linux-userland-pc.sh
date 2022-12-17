@@ -4,7 +4,9 @@ apt-get install figlet
 
 echo "Copyright By 2022 Fantox Gaming"
 
-figlet Miku-MD By Fantox Gaming
+figlet Miku-MD
+figlet By
+figlet Fantox Gaming
 
 echo 'starting installing of packages for terminal'
 
@@ -55,11 +57,16 @@ clear
 
 # -----------------------------------------------------------------------------
 
-figlet Miku-MD By Fantox Gaming
+figlet Miku-MD
+figlet By
+figlet Fantox Gaming
 
 ls
 
 cd Miku-MD
+
+rm -rf package.json
+wget https://github.com/FantoX001/Miku-MD/raw/main/package.json
 
 ls
 
@@ -75,14 +82,16 @@ yarn install
 
 yarn add sharp
 
-cd
+cd ..
 
 ls
 
 clear
 # -----------------To stop bot------------------
 
-figlet Miku-MD By Fantox Gaming
+figlet Miku-MD
+figlet By
+figlet Fantox Gaming
 
 echo 'If You Want To Stop Bot Press'
 echo "ctrl + c"
@@ -112,7 +121,9 @@ echo 'https://github.com/FantoX001/Miku-MD'
 
 clear
 # -------------------------xxxxxxxxxxxxxxxxxxxxxxxxxxx-------------------------
-figlet Miku-MD By Fantox Gaming
+figlet Miku-MD
+figlet By
+figlet Fantox Gaming
 
 
 echo "It's my request to follow me on GitHub and subscribe my YouTube channed if you like my hard work and dedication."
