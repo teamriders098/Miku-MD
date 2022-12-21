@@ -49,11 +49,11 @@ clear
 
 figlet Miku-MD By Fantox Gaming
 
-echo"Removing old files"
+echo "Removing old files"
 rm -rf miku-md
 rm -rf Miku-MD
 
-echo"👇👇👇 staring bot cloning 👇👇👇"
+echo "👇👇👇 staring bot cloning 👇👇👇"
 
 git clone https://github.com/FantoX001/Miku-MD
 
